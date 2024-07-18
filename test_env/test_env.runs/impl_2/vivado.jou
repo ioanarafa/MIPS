@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Jul  9 09:17:47 2024
+# Process ID: 3032
+# Current directory: C:/Users/User/Desktop/MIPS/test_env/test_env.runs/impl_2
+# Command line: vivado.exe -log test_env.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source test_env.tcl -notrace
+# Log file: C:/Users/User/Desktop/MIPS/test_env/test_env.runs/impl_2/test_env.vdi
+# Journal file: C:/Users/User/Desktop/MIPS/test_env/test_env.runs/impl_2\vivado.jou
+#-----------------------------------------------------------
+source test_env.tcl -notrace
